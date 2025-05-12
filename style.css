@@ -1,0 +1,28 @@
+body {
+    background-color: brown;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: bisque;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+img {
+    width: 160px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    border: 4px solid bisque;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Rodapé estilizado */
+footer {
+    background-color: #fff8dc; /* cor clara que combina com bisque */
+    color: #4b2e1e;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+    font-size: 0.95em;
+    border-top: 3px solid #8b4513;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);
+}
